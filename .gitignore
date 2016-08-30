@@ -1,4 +1,9 @@
 channel.zip
 challenge5.txt
-oxygen.png
+*.png
 .vscode
+*.jpg
+evil2.gfx
+*.gif
+deltas.gz
+*.wav
